@@ -1,6 +1,5 @@
 # 1- Compare Reactive and Proactive approaches
 
-# %%
 def mapping_function2(workload, capacity_range):
     # Define mapping function parameters based on capacity range
     if capacity_range <= 30:
