@@ -11,7 +11,6 @@ import matplotlib.pyplot as plt
 from keras import models 
 import seaborn as sns
 
-# %%
 # from google.colab import drive
 # drive.mount("/content/gdrive")
 
